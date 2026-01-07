@@ -59,3 +59,22 @@ The project is designed for academic submission and demonstrates practical appli
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📄 Academic Note
+This project was developed as part of a *B.Sc. Computer Science (3rd Year)* academic submission and demonstrates practical knowledge of data analysis and reporting techniques.
+
+---
+
+## ✅ How to Use
+1. Clone the repository
+2. Open the Jupyter notebooks for analysis
+3. Review the project report and dashboard for summarized insights
+
+---
+
+## 📬 Contact
+*Vaishnavi Desale*  
+B.Sc. Computer Science Student  
+Email: vaishnavidesale421@gmail.com
